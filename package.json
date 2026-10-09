@@ -1,0 +1,11 @@
+{
+  "name": "@solierrr/mocks-warehouse",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "sync": "node scripts/sync.mjs"
+  }
+}

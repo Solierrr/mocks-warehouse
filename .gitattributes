@@ -1,15 +1,8 @@
 * text=auto eol=lf
-
-*.{cmd,bat} text eol=crlf
-/mvnw text eol=lf
-gradlew text eol=lf
-gradlew.bat text eol=crlf
-
-*.jar binary
+*.cmd text eol=crlf
+*.bat text eol=crlf
 *.png binary
 *.jpg binary
 *.jpeg binary
+*.webp binary
 *.gif binary
-*.ico binary
-*.woff binary
-*.woff2 binary

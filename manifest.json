@@ -1,0 +1,2393 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "companies-units-1bde32de1469",
+      "category": "companies/units",
+      "path": "images/companies/units/20191106114856-1bde32de.webp",
+      "width": 1061,
+      "height": 675,
+      "bytes": 164546,
+      "sha256": "c74872a8d62a66828d879d8c22319814bf8dc9d973eba0e5ac2d7774beeb26dc",
+      "source": {
+        "filename": "20191106114856.jpg"
+      }
+    },
+    {
+      "id": "companies-units-5aeafc729871",
+      "category": "companies/units",
+      "path": "images/companies/units/domaintechnik-vhmbx7fnxw0-unsplash-5aeafc72.webp",
+      "width": 1200,
+      "height": 795,
+      "bytes": 56990,
+      "sha256": "7ca8720f07e707d66d079bd78eae3ae9f4889af7bb0a462011a365af89e25d4c",
+      "source": {
+        "filename": "domaintechnik-VHmBX7FnXw0-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-units-67cbd69e9e03",
+      "category": "companies/units",
+      "path": "images/companies/units/fachada-starbucks-jundiaishopping-67cbd69e.webp",
+      "width": 1080,
+      "height": 720,
+      "bytes": 140666,
+      "sha256": "3f371a535d4ab81e300c5d3cacf4c817099d9a01abf4ecb39780b3a2ee7fe6f9",
+      "source": {
+        "filename": "fachada_starbucks_jundiaishopping.jpg"
+      }
+    },
+    {
+      "id": "companies-units-106e79fdd39c",
+      "category": "companies/units",
+      "path": "images/companies/units/fikri-rasyid-ezec8-clzss-unsplash-106e79fd.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 223868,
+      "sha256": "0867dc8226a6080dd0e72dd5ccc6ee273fe676eb1480c8f9fd6f2f61c2ad94ff",
+      "source": {
+        "filename": "fikri-rasyid-ezeC8-clZSs-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-units-958b830aa312",
+      "category": "companies/units",
+      "path": "images/companies/units/google-data-center-958b830a.webp",
+      "width": 1058,
+      "height": 439,
+      "bytes": 81826,
+      "sha256": "9b810ad8ab2602ebb8a775065bc7f8d4b46302a9b79c847f4eea602c30355bf1",
+      "source": {
+        "filename": "google-data-center.jpg"
+      }
+    },
+    {
+      "id": "companies-units-c9b6d0e53595",
+      "category": "companies/units",
+      "path": "images/companies/units/images-c9b6d0e5.webp",
+      "width": 679,
+      "height": 451,
+      "bytes": 35714,
+      "sha256": "4d817c1c02670b28d41316846edf43c9de4de2fe74a12824def20e73ca442485",
+      "source": {
+        "filename": "images.jpg"
+      }
+    },
+    {
+      "id": "companies-units-dfa918a0f7cf",
+      "category": "companies/units",
+      "path": "images/companies/units/minuto-varejo-starbucks-loja-galeria-chaves-fechada-mais-cedo-jornal-d-dfa918a0.webp",
+      "width": 800,
+      "height": 551,
+      "bytes": 86738,
+      "sha256": "0eb87054093584e9684c6b1949218b912409a33164003bfebc0942c36a03cf26",
+      "source": {
+        "filename": "minuto_varejo_starbucks_loja_galeria_chaves_fechada_mais__cedo_jornal_do_comercio-10468664.jpg"
+      }
+    },
+    {
+      "id": "companies-units-26ff88599b84",
+      "category": "companies/units",
+      "path": "images/companies/units/nrd-d6tu-l3chle-unsplash-26ff8859.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 268896,
+      "sha256": "e914eef8df24897e1eefc728b40aa03042d6c93b4f76e3cf90ad465522de31f7",
+      "source": {
+        "filename": "nrd-D6Tu_L3chLE-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-units-a9f88c05ca8c",
+      "category": "companies/units",
+      "path": "images/companies/units/sepehr-behnamifar-xkaenmg2fyi-unsplash-a9f88c05.webp",
+      "width": 1200,
+      "height": 675,
+      "bytes": 120698,
+      "sha256": "e10ee95c1358d695f42363024f265fad60bf41a4b0861747bd7063259a15ec4b",
+      "source": {
+        "filename": "sepehr-behnamifar-xKaENmG2fyI-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-units-e68ea65dec2f",
+      "category": "companies/units",
+      "path": "images/companies/units/shopping-barra-ssa-ba-1024x660-e68ea65d.webp",
+      "width": 1024,
+      "height": 660,
+      "bytes": 119766,
+      "sha256": "2be35c411b6252cc8e436fdf780f64060ea9c143ee003c127671d6725122d342",
+      "source": {
+        "filename": "Shopping-Barra-SSA-BA-1024x660.jpg"
+      }
+    },
+    {
+      "id": "companies-units-b9ef92d62627",
+      "category": "companies/units",
+      "path": "images/companies/units/starbucks-em-curitiba-970x550-b9ef92d6.webp",
+      "width": 970,
+      "height": 550,
+      "bytes": 65380,
+      "sha256": "8c40589601518293ccad8a9bdb303b03d897febba5007091d5c1e56af968cb79",
+      "source": {
+        "filename": "starbucks-em-curitiba-970x550.jpg"
+      }
+    },
+    {
+      "id": "companies-logos-c7cceb06cf61",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-245-c7cceb06.webp",
+      "width": 400,
+      "height": 312,
+      "bytes": 4886,
+      "sha256": "506621ea489c193b34d8ffb888699625d3649442403f4be448525a38232aa2b4",
+      "source": {
+        "filename": "logoipsum-245.png"
+      }
+    },
+    {
+      "id": "companies-logos-54b4ae9664e9",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-246-54b4ae96.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 10958,
+      "sha256": "25f2228161880d196a91ac33921fdf966d1e2ef31a1b3157eae8c888f276e7ab",
+      "source": {
+        "filename": "logoipsum-246.png"
+      }
+    },
+    {
+      "id": "companies-logos-2a400133ea4b",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-247-2a400133.webp",
+      "width": 400,
+      "height": 361,
+      "bytes": 7708,
+      "sha256": "9bd33431dbf281a4cc781832b304f8e029efcae13c823b65367a039ca56e44f4",
+      "source": {
+        "filename": "logoipsum-247.png"
+      }
+    },
+    {
+      "id": "companies-logos-21bd28277f29",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-248-21bd2827.webp",
+      "width": 400,
+      "height": 164,
+      "bytes": 5156,
+      "sha256": "ee176d034f36037c958b0ad09e1e6057bab462289b99a185381452e1ea1ddc69",
+      "source": {
+        "filename": "logoipsum-248.png"
+      }
+    },
+    {
+      "id": "companies-logos-a0a7a7d5c53e",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-249-a0a7a7d5.webp",
+      "width": 400,
+      "height": 320,
+      "bytes": 6752,
+      "sha256": "673115498a1cf16637128ad735b29cbd3324024660d7e1cf55041c3550bb0837",
+      "source": {
+        "filename": "logoipsum-249.png"
+      }
+    },
+    {
+      "id": "companies-logos-eabc8d992b65",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-295-eabc8d99.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 9014,
+      "sha256": "4f9b7b37b24139c57548194cb5a83261a4893229cb48b650818998c371121dce",
+      "source": {
+        "filename": "logoipsum-295.png"
+      }
+    },
+    {
+      "id": "companies-logos-3cda168355c1",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-296-3cda1683.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 8050,
+      "sha256": "391dc6ab80ac2fd4bec192dee98bd9771bb2c58396f52a3019fbca954b26df80",
+      "source": {
+        "filename": "logoipsum-296.png"
+      }
+    },
+    {
+      "id": "companies-logos-eec55254de77",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-298-eec55254.webp",
+      "width": 390,
+      "height": 400,
+      "bytes": 11838,
+      "sha256": "0814d903967ead0ada6a5ba15c5c822c2d4e6db4458e8bd315515645504c513d",
+      "source": {
+        "filename": "logoipsum-298.png"
+      }
+    },
+    {
+      "id": "companies-logos-3135784d4a96",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-327-3135784d.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 6408,
+      "sha256": "042a39005a86a74e2eb6339aa2fbfe5c8128805bbfb5196af46d6bfe0d7d6522",
+      "source": {
+        "filename": "logoipsum-327.png"
+      }
+    },
+    {
+      "id": "companies-logos-71f02bcf0592",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-359-71f02bcf.webp",
+      "width": 400,
+      "height": 381,
+      "bytes": 13092,
+      "sha256": "1936861e954a743c25360fcaf52b1c457b13ada80792cb37402a962ecfc4f3c1",
+      "source": {
+        "filename": "logoipsum-359.png"
+      }
+    },
+    {
+      "id": "companies-logos-590b19f316c8",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-361-590b19f3.webp",
+      "width": 400,
+      "height": 266,
+      "bytes": 7812,
+      "sha256": "aeb8485645d7b54508153c3ce2a23d0d3d16364ef49d0a16178964c5d2e69bc0",
+      "source": {
+        "filename": "logoipsum-361.png"
+      }
+    },
+    {
+      "id": "companies-logos-d3034e6a7132",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-374-d3034e6a.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 9340,
+      "sha256": "650fc00d4b0b18f2d2bee38d03a775deb604bc3303c0858c420fcf58bf11f5ae",
+      "source": {
+        "filename": "logoipsum-374.png"
+      }
+    },
+    {
+      "id": "companies-logos-7d9eb4f25d9f",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-379-7d9eb4f2.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 4080,
+      "sha256": "0702c90fd5e5fbbc948278a42b7ead784d2415207b8993264c924046e111e104",
+      "source": {
+        "filename": "logoipsum-379.png"
+      }
+    },
+    {
+      "id": "companies-logos-af61b8a98542",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-389-af61b8a9.webp",
+      "width": 400,
+      "height": 324,
+      "bytes": 5584,
+      "sha256": "93be6fc9848e38ed9228c338ce487a21eb28a1d6f6564709366d7dc6e1bf061c",
+      "source": {
+        "filename": "logoipsum-389.png"
+      }
+    },
+    {
+      "id": "companies-logos-c25486e095cf",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-392-c25486e0.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 9100,
+      "sha256": "734dea501d4d4ea90e6111570c516a5e6d0838dc7268e72402661ff57be62dd6",
+      "source": {
+        "filename": "logoipsum-392.png"
+      }
+    },
+    {
+      "id": "companies-logos-108cc39cddd3",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-394-108cc39c.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 11792,
+      "sha256": "302e5dd5b7a04468e1115e43e3b6e70971077bf209b0b55df78c14fee2ca9e4e",
+      "source": {
+        "filename": "logoipsum-394.png"
+      }
+    },
+    {
+      "id": "companies-logos-4bd69c4cf8de",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-396-4bd69c4c.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 10166,
+      "sha256": "0ba679c8635ace0d0f24ed5735b16ec9216871f19fa3d2da2efd43099a37b44e",
+      "source": {
+        "filename": "logoipsum-396.png"
+      }
+    },
+    {
+      "id": "companies-logos-14999cb79347",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-397-14999cb7.webp",
+      "width": 400,
+      "height": 372,
+      "bytes": 6750,
+      "sha256": "bf8670ec6848c5d8b732f317779695ddc30df870a8f1f41c11605b156db555b4",
+      "source": {
+        "filename": "logoipsum-397.png"
+      }
+    },
+    {
+      "id": "companies-logos-74b86786f7ae",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-399-74b86786.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 5186,
+      "sha256": "93c4beebaa14f34c771504d5da10e18d9bdf2a9c22e659cf7bbb52395b4e13c5",
+      "source": {
+        "filename": "logoipsum-399.png"
+      }
+    },
+    {
+      "id": "companies-logos-850d0e805692",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-403-850d0e80.webp",
+      "width": 400,
+      "height": 298,
+      "bytes": 7798,
+      "sha256": "8dbc99ee8701c69d2d2f0010d63862f445afc8414d736492f6959851c49f5b31",
+      "source": {
+        "filename": "logoipsum-403.png"
+      }
+    },
+    {
+      "id": "companies-logos-b614a2784161",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-411-b614a278.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 10626,
+      "sha256": "66583047334c49b82f3a728c45e9f069499f8216ca298bfdabfde4fa1b52f0aa",
+      "source": {
+        "filename": "logoipsum-411.png"
+      }
+    },
+    {
+      "id": "companies-logos-80ed3fbc0df9",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-415-80ed3fbc.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 8926,
+      "sha256": "00771a09cc37515584e5a7a971a58cb1feaad76fae76308305e038ff626553f4",
+      "source": {
+        "filename": "logoipsum-415.png"
+      }
+    },
+    {
+      "id": "companies-logos-4bcf2e427a2d",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-417-4bcf2e42.webp",
+      "width": 400,
+      "height": 258,
+      "bytes": 18490,
+      "sha256": "0fd5afafc1bdedd2f391dd190698e7b13c20311e33158d2ae35528b28282b435",
+      "source": {
+        "filename": "logoipsum-417.png"
+      }
+    },
+    {
+      "id": "companies-logos-45988b6ff305",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-419-45988b6f.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 21106,
+      "sha256": "e4958a23363d6752bc65db0b7576910bdba4be83edb66d1e08c796768bcd1237",
+      "source": {
+        "filename": "logoipsum-419.png"
+      }
+    },
+    {
+      "id": "companies-logos-db9449f78cb1",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-424-db9449f7.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 16828,
+      "sha256": "7379935193d6e92a569fde9504af6237b6ed8058dbbf9b0eb2340463a98ef41e",
+      "source": {
+        "filename": "logoipsum-424.png"
+      }
+    },
+    {
+      "id": "companies-logos-b49b9bdbbe64",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-431-b49b9bdb.webp",
+      "width": 400,
+      "height": 290,
+      "bytes": 4636,
+      "sha256": "ac20758973d9e594b90ae493c2abb679e48e144ef4c6f6251113fb274a17b854",
+      "source": {
+        "filename": "logoipsum-431.png"
+      }
+    },
+    {
+      "id": "companies-logos-4b1a6cc86979",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-433-4b1a6cc8.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 5340,
+      "sha256": "f612bd81df69d5f1b6d9b4efa4567c64b845b55e53587340b8449ad8e11c5eab",
+      "source": {
+        "filename": "logoipsum-433.png"
+      }
+    },
+    {
+      "id": "companies-logos-cd313c718414",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-436-cd313c71.webp",
+      "width": 400,
+      "height": 400,
+      "bytes": 6496,
+      "sha256": "ede9c12ab06fa30becda576d9bd3ed638780adc276fce5bc6caef43cdd5255d9",
+      "source": {
+        "filename": "logoipsum-436.png"
+      }
+    },
+    {
+      "id": "companies-logos-74973e4908f3",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-438-74973e49.webp",
+      "width": 400,
+      "height": 181,
+      "bytes": 6152,
+      "sha256": "4668c6847609db73ae7714a2bbf7de4ecbfb7afa0784c6ba7cb169d115fa75b2",
+      "source": {
+        "filename": "logoipsum-438.png"
+      }
+    },
+    {
+      "id": "companies-logos-954ca29e346e",
+      "category": "companies/logos",
+      "path": "images/companies/logos/logoipsum-441-954ca29e.webp",
+      "width": 400,
+      "height": 307,
+      "bytes": 2852,
+      "sha256": "82655cc15a880da61c0bb46f1b4fca30429aec95a4bf8e479920a9d28cb504bf",
+      "source": {
+        "filename": "logoipsum-441.png"
+      }
+    },
+    {
+      "id": "companies-banners-754224203584",
+      "category": "companies/banners",
+      "path": "images/companies/banners/abbe-sublett-nxzdmuqhn4o-unsplash-75422420.webp",
+      "width": 1600,
+      "height": 1064,
+      "bytes": 303460,
+      "sha256": "f9c27378232d7d949e28b67199d709f5da94b2e043031d4c89201342dde3587c",
+      "source": {
+        "filename": "abbe-sublett-nxZDMUQhN4o-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-d6b798990651",
+      "category": "companies/banners",
+      "path": "images/companies/banners/bank-phrom-tzm3oyu-6sk-unsplash-d6b79899.webp",
+      "width": 1600,
+      "height": 1068,
+      "bytes": 114446,
+      "sha256": "9f7a80e72b53fcb94137db02e38ea13206360b2080d776ae64a56b8fb620647e",
+      "source": {
+        "filename": "bank-phrom-Tzm3Oyu_6sk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-81bf0e06dfaf",
+      "category": "companies/banners",
+      "path": "images/companies/banners/beth-macdonald-6iop1mriodk-unsplash-81bf0e06.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 162724,
+      "sha256": "4e88f0b2da167eb547e39ba0a5d12297270dccb465ef28411e4847ea7f5a4706",
+      "source": {
+        "filename": "beth-macdonald-6iop1mRioDk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-0cad5952d2e4",
+      "category": "companies/banners",
+      "path": "images/companies/banners/carl-newton-2c6katcxf6u-unsplash-0cad5952.webp",
+      "width": 1060,
+      "height": 1600,
+      "bytes": 102292,
+      "sha256": "5f60db56de41491bd676ca4a4087856c6e21d87223f3c362256ec13ea2f805e7",
+      "source": {
+        "filename": "carl-newton-2C6kAtCXf6U-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-fc09eac8f7c9",
+      "category": "companies/banners",
+      "path": "images/companies/banners/chris-lutke-xahlcs7obc8-unsplash-fc09eac8.webp",
+      "width": 1245,
+      "height": 1600,
+      "bytes": 82790,
+      "sha256": "ef7a1e4c45c60e1ff873f2cdd2b59098ef53fe3ddcb9bd5fed712deb5da1727a",
+      "source": {
+        "filename": "chris-lutke-xaHLCS7ObC8-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-2f0629570e1f",
+      "category": "companies/banners",
+      "path": "images/companies/banners/kenrick-baksh-wm8opod-mde-unsplash-2f062957.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 158054,
+      "sha256": "711e1e437dc205da454ea62910b5bc4d17b78b4cb7dcb2932b55c983671915be",
+      "source": {
+        "filename": "kenrick-baksh-Wm8opOd-MDE-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-d943f1eb9485",
+      "category": "companies/banners",
+      "path": "images/companies/banners/lei-jiang-cspvbh-e1uc-unsplash-d943f1eb.webp",
+      "width": 1600,
+      "height": 1066,
+      "bytes": 98170,
+      "sha256": "83ddcd49d8619643acab4d192871f94bada5a67e6b3853f9865b0615d1e3f359",
+      "source": {
+        "filename": "lei-jiang-csPvbh_E1uc-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-6509b88d03f1",
+      "category": "companies/banners",
+      "path": "images/companies/banners/mads-eneqvist-j9jyy9s1zak-unsplash-6509b88d.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 543772,
+      "sha256": "a08e5d376b77629864a6a30f5ae34edd9a5c1dc55410d1607619daa346c1b578",
+      "source": {
+        "filename": "mads-eneqvist-J9jYy9S1zAk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-71dac48f9fb3",
+      "category": "companies/banners",
+      "path": "images/companies/banners/nikola-rxqp3qmnth8-unsplash-71dac48f.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 44598,
+      "sha256": "2bfe06632272412af4cb003282e98ff5a64a22b4e2030b0e0b0eba6262c033a5",
+      "source": {
+        "filename": "nikola-RXqP3QMNTH8-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-0d712c104e0a",
+      "category": "companies/banners",
+      "path": "images/companies/banners/rahul-bhogal-ub9lkiwxyec-unsplash-0d712c10.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 216746,
+      "sha256": "0ba09e85aee2134399af1829b6d4ddb4e42ac88365a77dbe68feb07daf30abe2",
+      "source": {
+        "filename": "rahul-bhogal-Ub9LkIWxyec-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-743b642ec68c",
+      "category": "companies/banners",
+      "path": "images/companies/banners/robert-stump-bwpgwjesfhw-unsplash-743b642e.webp",
+      "width": 1600,
+      "height": 1038,
+      "bytes": 195544,
+      "sha256": "26ea010d09e391a8c61b127fc7c63ddcaa03e9d4a34fdf62d1ce81aaa00d0afe",
+      "source": {
+        "filename": "robert-stump-bwpgwJesFhw-unsplash.jpg"
+      }
+    },
+    {
+      "id": "companies-banners-b3a314a3444c",
+      "category": "companies/banners",
+      "path": "images/companies/banners/waldemar-brandt-0vswdlwm3qg-unsplash-b3a314a3.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 107746,
+      "sha256": "9e84609b2bc6c0e2f9958b5b7e1dd8616e284fe1a0db8039c977c3bb6f965daf",
+      "source": {
+        "filename": "waldemar-brandt-0vswdLWM3qg-unsplash.jpg"
+      }
+    },
+    {
+      "id": "infrastructure-d9a5baac44f0",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-616882-mlb106500266881-022026-f-estrutura-suporte-fixa-pain-d9a5baac.webp",
+      "width": 1045,
+      "height": 915,
+      "bytes": 18222,
+      "sha256": "dfcccd73bda70843c620fc61ed52a189a57d75883229d8a084a4a9c093979093",
+      "source": {
+        "filename": "D_NQ_NP_2X_616882-MLB106500266881_022026-F-estrutura-suporte-fixa-painel-solar-telha-metalica-4-placas.png"
+      }
+    },
+    {
+      "id": "infrastructure-480bf7154c06",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-693876-mlb71058591956-082023-f-kit-20-presilhas-grampos-par-480bf715.webp",
+      "width": 971,
+      "height": 500,
+      "bytes": 13732,
+      "sha256": "44e056fc487457fa2c85eaf6f5afbf2b2197ad231c47419d27bba4ba486571bb",
+      "source": {
+        "filename": "D_NQ_NP_2X_693876-MLB71058591956_082023-F-kit-20-presilhas-grampos-para-placas-solares-30mm-e-35mm.png"
+      }
+    },
+    {
+      "id": "infrastructure-2e8c9d4b7d71",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-747150-mlb117194297868-102026-f-suporte-l-conector-placa-so-2e8c9d4b.webp",
+      "width": 1200,
+      "height": 1190,
+      "bytes": 55696,
+      "sha256": "1f2241927477d6915fbae16f74a33e6fef0f5aa5b3f95942f15ac430f63a77c8",
+      "source": {
+        "filename": "D_NQ_NP_2X_747150-MLB117194297868_102026-F-suporte-l-conector-placa-solar-telha-fibrocimento--04-pecas.png"
+      }
+    },
+    {
+      "id": "infrastructure-5511e7ebba10",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-771365-mlb91203043375-082025-f-10-grampos-clamp-intermediar-5511e7eb.webp",
+      "width": 752,
+      "height": 941,
+      "bytes": 17680,
+      "sha256": "1d21710789e6aa3c3d7bdc9d99269fc1ba9920dcb3794dfe590d41c313f4443a",
+      "source": {
+        "filename": "D_NQ_NP_2X_771365-MLB91203043375_082025-F-10-grampos-clamp-intermediario--para-placas-energia-solar.png"
+      }
+    },
+    {
+      "id": "infrastructure-b9c2cb525ac5",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-801973-mlb112385579043-052026-f-kit-12-suportes-para-placa--b9c2cb52.webp",
+      "width": 1080,
+      "height": 653,
+      "bytes": 27070,
+      "sha256": "abb441f8a5c2363729c346343bec15f23a6fb2060ba0238d155bc72f52077304",
+      "source": {
+        "filename": "D_NQ_NP_2X_801973-MLB112385579043_052026-F-kit-12-suportes-para-placa-solar-p-telha-ceramicacimento.png"
+      }
+    },
+    {
+      "id": "infrastructure-570e184b8dc0",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-841419-mlb95655953554-102025-f-160-presilhas-grampos-interm-570e184b.webp",
+      "width": 1199,
+      "height": 1026,
+      "bytes": 26634,
+      "sha256": "5d56ead8272de7a1cd88ca8eec9fb221817d8ff833bbd0e87fb11c99ef092529",
+      "source": {
+        "filename": "D_NQ_NP_2X_841419-MLB95655953554_102025-F-160-presilhas-grampos-intermediarios-placas-paineis-solares.png"
+      }
+    },
+    {
+      "id": "infrastructure-b91ce42d5700",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-847781-mlb106951243014-022026-f-8-suporte-gancho-fixa-paine-b91ce42d.webp",
+      "width": 1090,
+      "height": 918,
+      "bytes": 28352,
+      "sha256": "38e1bf2fd66e0748130ac1205eed1cdac0293fe36e80d2823330888d3bc0316e",
+      "source": {
+        "filename": "D_NQ_NP_2X_847781-MLB106951243014_022026-F-8-suporte-gancho-fixa-painel-solar-telha-ceramica-e-cimento.png"
+      }
+    },
+    {
+      "id": "infrastructure-2c2c03baebe9",
+      "category": "infrastructure",
+      "path": "images/infrastructure/d-nq-np-2x-870916-mlb110264150784-052026-f-kit-12-suportes-para-placa--2c2c03ba.webp",
+      "width": 620,
+      "height": 881,
+      "bytes": 8782,
+      "sha256": "d2dded676840b410f755de614791c329f30da4904b11aadd557f458878953235",
+      "source": {
+        "filename": "D_NQ_NP_2X_870916-MLB110264150784_052026-F-kit-12-suportes-para-placa-solar-p-telha-ceramicacimento.png"
+      }
+    },
+    {
+      "id": "banners-6723e9f7fdcc",
+      "category": "banners",
+      "path": "images/banners/anthony-stw2kypoujk-unsplash-6723e9f7.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 174818,
+      "sha256": "716a99fb67b69f69d57a1940e7068207730f8beac071a5fed428b782dd599abb",
+      "source": {
+        "filename": "anthony-sTw2KYpoujk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-f44c80b35f0b",
+      "category": "banners",
+      "path": "images/banners/arron-choi-fyd54gvxfgm-unsplash-f44c80b3.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 101962,
+      "sha256": "96ae8d5183c76df7b3cbd4c2791c40f38bdb795893de45b53fc76dca8a9b3c63",
+      "source": {
+        "filename": "arron-choi-fYD54gVXFGM-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-a223897f5a58",
+      "category": "banners",
+      "path": "images/banners/ej-yao-d46mxlsqrjw-unsplash-a223897f.webp",
+      "width": 1600,
+      "height": 1068,
+      "bytes": 67320,
+      "sha256": "b6d14f593d5721b7c50a1f5c1f33515e29e81e36d2d0062db9a18bbb6b84fe31",
+      "source": {
+        "filename": "ej-yao-D46mXLsQRJw-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-7978f3e7ccff",
+      "category": "banners",
+      "path": "images/banners/glenov-brankovic-dwp5nuqtn6e-unsplash-7978f3e7.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 399028,
+      "sha256": "e0bccd4d6d6874c0dbaad6431cab43e46de95bf3a1c5365196b68df03fa1e8f2",
+      "source": {
+        "filename": "glenov-brankovic-DWp5nUqTn6E-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-bd6cf9e02205",
+      "category": "banners",
+      "path": "images/banners/ivan-henao-04rz7r1fkhy-unsplash-bd6cf9e0.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 208366,
+      "sha256": "38211b91530c4e4dbba8e5e9b503189c06806933292b7d616c32ea1fe3043c05",
+      "source": {
+        "filename": "ivan-henao-04rZ7R1fKhY-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-c66d049cf8c8",
+      "category": "banners",
+      "path": "images/banners/milo-bunnik-5pjp-dwpx1w-unsplash-c66d049c.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 377342,
+      "sha256": "c31892ec3222cc2059fe2cbeb9e50b12dd0913f973c126f0d022232b39db8bb3",
+      "source": {
+        "filename": "milo-bunnik-5pjp_dwPx1w-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-619b9d5f119e",
+      "category": "banners",
+      "path": "images/banners/mitchell-luo-ttx79vkm8gs-unsplash-619b9d5f.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 225860,
+      "sha256": "6374cd29e91ed0733eaaac91b6a37a14129afb1f46ad5bc6d011c3b6bdb709da",
+      "source": {
+        "filename": "mitchell-luo-TtX79Vkm8gs-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-838aa6f4c6fb",
+      "category": "banners",
+      "path": "images/banners/nik-7mtbqzo5g6i-unsplash-838aa6f4.webp",
+      "width": 1013,
+      "height": 1600,
+      "bytes": 133752,
+      "sha256": "b334a414c83b0c5f01cbdbc01a98a6e094843278ee07b5da7655242527e4bfc7",
+      "source": {
+        "filename": "nik-7mtBqZo5G6I-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-6dea3e39ce24",
+      "category": "banners",
+      "path": "images/banners/ray-donnelly-yybyc5zc1mk-unsplash-6dea3e39.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 480108,
+      "sha256": "3be3ca578299cfe8eb16d591357d9e0197f8491299cff9a6fdcea15f15eac905",
+      "source": {
+        "filename": "ray-donnelly-YybYC5zC1Mk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-833adf51f3dd",
+      "category": "banners",
+      "path": "images/banners/ricardo-gomez-angel-equfbrtidee-unsplash-833adf51.webp",
+      "width": 1600,
+      "height": 1185,
+      "bytes": 253062,
+      "sha256": "125186551a54a19ae4628c245a1b45bb64181343f68aec79d67da13037e11d28",
+      "source": {
+        "filename": "ricardo-gomez-angel-EqUFBrTIdeE-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-1b359200b813",
+      "category": "banners",
+      "path": "images/banners/shane-mclendon-en1tf2eg-50-unsplash-1b359200.webp",
+      "width": 1600,
+      "height": 1199,
+      "bytes": 480978,
+      "sha256": "0a95d1d91f1adeb5412d05f106ee324f17df687aa839aee5f3a53c94b5309aaf",
+      "source": {
+        "filename": "shane-mclendon-EN1tF2EG-50-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-fa913c0a5911",
+      "category": "banners",
+      "path": "images/banners/tomas-mcn1ky7jzzu-unsplash-fa913c0a.webp",
+      "width": 1280,
+      "height": 1600,
+      "bytes": 253454,
+      "sha256": "6fad3a6483a6a898b368d2d4c2ee49fb673f1dea3c46f21c52b9232e25b9ba0a",
+      "source": {
+        "filename": "tomas-Mcn1Ky7jzZU-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-cb560d9e2b62",
+      "category": "banners",
+      "path": "images/banners/troy-mortier-w6g9dqzunki-unsplash-cb560d9e.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 165692,
+      "sha256": "192201bcc51ba1f1c7b893407b86f9630fb0295613b8ab2eaed8eb3c064123cc",
+      "source": {
+        "filename": "troy-mortier-w6g9DqZUNkI-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-ed516d67965c",
+      "category": "banners",
+      "path": "images/banners/ambrose-chua-zxbnbuncq1g-unsplash-ed516d67.webp",
+      "width": 1175,
+      "height": 1600,
+      "bytes": 55268,
+      "sha256": "793faa0118ec093b93f1018df5cee815efc26ea39925e7bdea2f7844c14207ab",
+      "source": {
+        "filename": "ambrose-chua-zxbNbuncq1g-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-178c6576d3fb",
+      "category": "banners",
+      "path": "images/banners/denise-bossarte-8rejivqk1vw-unsplash-178c6576.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 32224,
+      "sha256": "95af11dbd2bf15314581bc6b12bb989cc3b8cf92ca6cbfd6f5e093075e12f47a",
+      "source": {
+        "filename": "denise-bossarte-8rEJiVQk1Vw-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-19f02d76d987",
+      "category": "banners",
+      "path": "images/banners/hamed-daram-5fbmfainwg-unsplash-19f02d76.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 220314,
+      "sha256": "07821486b5a0f9387f1175e7715b7a846f510ac235e074429ded0f5ec3a8f065",
+      "source": {
+        "filename": "hamed-daram--5fbmfaInwg-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-2c3600ff00f4",
+      "category": "banners",
+      "path": "images/banners/isaac-n-c-58l1uegj7yi-unsplash-2c3600ff.webp",
+      "width": 1600,
+      "height": 1066,
+      "bytes": 33682,
+      "sha256": "a321c0d867f7b681c5735167756bfead11b2bb6e19814aa23fe7b1731c2f6d72",
+      "source": {
+        "filename": "isaac-n-c-58l1uegj7YI-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-d97b3a843173",
+      "category": "banners",
+      "path": "images/banners/james-lee-yiy1cd3xn4w-unsplash-d97b3a84.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 5492,
+      "sha256": "78d3958ca2ff37839d5d66e6203b09c2dc1ff4e33e34c915a800023b0bb02903",
+      "source": {
+        "filename": "james-lee-YIy1cd3xN4w-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-6338e7f06e46",
+      "category": "banners",
+      "path": "images/banners/jameson-zimmer-dw7aafngphs-unsplash-6338e7f0.webp",
+      "width": 900,
+      "height": 1600,
+      "bytes": 2678,
+      "sha256": "5a89b43747a00289bd1bc44e98fe6de0f12f724c7e99a2a4b908ec91512757e2",
+      "source": {
+        "filename": "jameson-zimmer-DW7aafnGPHs-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-14f73e17a01f",
+      "category": "banners",
+      "path": "images/banners/jameson-zimmer-odq-h2quvvk-unsplash-14f73e17.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 2680,
+      "sha256": "baaea4c0cd2c55db0c93a6dee3336dcc20a37d673aea5802f1a70e4eb8f4175d",
+      "source": {
+        "filename": "jameson-zimmer-oDq-H2quVvk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-d4992f9f06d9",
+      "category": "banners",
+      "path": "images/banners/jameson-zimmer-zg1rtfjafs4-unsplash-d4992f9f.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 2678,
+      "sha256": "8357a96ece87ccb35e6a0a5f436be4ab95da43c5dd4e41b8c5cf3a1ed2a23655",
+      "source": {
+        "filename": "jameson-zimmer-zG1RtFJafs4-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-7e20ad0fccb3",
+      "category": "banners",
+      "path": "images/banners/moren-hsu-vlakstkmvhk-unsplash-7e20ad0f.webp",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 51516,
+      "sha256": "5e989b2e7e367d3468e2e3ee27fc22001fb9f62bd6f2487c2277894a0f4a9cf9",
+      "source": {
+        "filename": "moren-hsu-VLaKsTkmVhk-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-21ea2a4e6ba8",
+      "category": "banners",
+      "path": "images/banners/willy-the-wizard-opjfywmsaaw-unsplash-21ea2a4e.webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 89422,
+      "sha256": "0b64f0c3b9ab8d25ed275ab234a4e87d78123cceef1cf2eba65eb704df716673",
+      "source": {
+        "filename": "willy-the-wizard-opjfyWmsaaw-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-1531bd8bb82f",
+      "category": "banners",
+      "path": "images/banners/nasa-dcgbraqmtqa-unsplash-1531bd8b.webp",
+      "width": 1600,
+      "height": 921,
+      "bytes": 102980,
+      "sha256": "4e2977c596629cc32d3cc2f9e25587cf6c991b4ff362bcdb805b85c88deb349d",
+      "source": {
+        "filename": "nasa-dCgbRAQmTQA-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-587fefd3c4d3",
+      "category": "banners",
+      "path": "images/banners/blake-verdoorn-cssvezachvq-unsplash-2-587fefd3.webp",
+      "width": 1067,
+      "height": 1600,
+      "bytes": 569704,
+      "sha256": "5a482570e58dc4515b26d6a1e5d519739df5ce2b31a0747065ee8289da98e8a2",
+      "source": {
+        "filename": "blake-verdoorn-cssvEZacHvQ-unsplash (2).jpg"
+      }
+    },
+    {
+      "id": "banners-adca890bae39",
+      "category": "banners",
+      "path": "images/banners/dominik-schroder-fikd9t5-5zq-unsplash-adca890b.webp",
+      "width": 1600,
+      "height": 1066,
+      "bytes": 24364,
+      "sha256": "9b52e4b44657e0f7dcbac7c46de920a91d0402237b149afb5d933adad6a2e44f",
+      "source": {
+        "filename": "dominik-schroder-FIKD9t5_5zQ-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-577aacfe2cf4",
+      "category": "banners",
+      "path": "images/banners/jeremy-thomas-e0ahdsenmdg-unsplash-577aacfe.webp",
+      "width": 1600,
+      "height": 1092,
+      "bytes": 451366,
+      "sha256": "33084fcf6320741f05b311919a858defd45d7fad197df5c942be2b530943b535",
+      "source": {
+        "filename": "jeremy-thomas-E0AHdsENmDg-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-b6e4a40519c8",
+      "category": "banners",
+      "path": "images/banners/joel-filipe-qwonahbmllo-unsplash-b6e4a405.webp",
+      "width": 1266,
+      "height": 1600,
+      "bytes": 236548,
+      "sha256": "28490c39950cc7b319de262b50e2bee5557fa72bdbf857d11b98ab52564a3135",
+      "source": {
+        "filename": "joel-filipe-QwoNAhbmLLo-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-0b14691d1989",
+      "category": "banners",
+      "path": "images/banners/joel-vodell-tapakerw5pq-unsplash-0b14691d.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 183772,
+      "sha256": "1fb79ae011ac90e6254fb303bbba4b6d3aaf429caeace79b0f09725ddd4c7244",
+      "source": {
+        "filename": "joel-vodell-TApAkERW5pQ-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-1517222995ec",
+      "category": "banners",
+      "path": "images/banners/john-fowler-7ym9rpytsda-unsplash-15172229.webp",
+      "width": 1429,
+      "height": 1600,
+      "bytes": 655160,
+      "sha256": "93a520c66e3bbbb28f5268703fc188e16a35b14fd1274075a456aa07ac8f24cf",
+      "source": {
+        "filename": "john-fowler-7Ym9rpYtSdA-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-a1924b3ad6ee",
+      "category": "banners",
+      "path": "images/banners/mark-basarab-1otukd-8svc-unsplash-a1924b3a.webp",
+      "width": 1600,
+      "height": 1066,
+      "bytes": 69502,
+      "sha256": "aac52ac8d05289119dbafdf6539f8da550aa70f2f244e1e85a71dbce579cf468",
+      "source": {
+        "filename": "mark-basarab-1OtUkD_8svc-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-e93a487fa550",
+      "category": "banners",
+      "path": "images/banners/nasa-pd4lo70ldbi-unsplash-e93a487f.webp",
+      "width": 1385,
+      "height": 1600,
+      "bytes": 165470,
+      "sha256": "4109fa11825374bc647e409d3a7816a0c7c2d80852ba2897fa391229ba51358f",
+      "source": {
+        "filename": "nasa-pd4lo70LdbI-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-edd99a425706",
+      "category": "banners",
+      "path": "images/banners/niko-photos-tgtvxeor-rs-unsplash-edd99a42.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 473208,
+      "sha256": "5648c2669f872227eb2b0db520cdb55f44e3987964e3a578e894f532a7a56904",
+      "source": {
+        "filename": "niko-photos-tGTVxeOr_Rs-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-25da6b38e45b",
+      "category": "banners",
+      "path": "images/banners/nikola-majksner-hxngeafogt4-unsplash-25da6b38.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 242954,
+      "sha256": "590cb92d5af86531b32aff80d2d59fba6acd2c61bc922d9fc1a4a257e3f11b7c",
+      "source": {
+        "filename": "nikola-majksner-hXNGeAFOgT4-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-5f35407b67f3",
+      "category": "banners",
+      "path": "images/banners/qingbao-meng-01-igfr7hd4-unsplash-5f35407b.webp",
+      "width": 1600,
+      "height": 953,
+      "bytes": 299568,
+      "sha256": "5e97e90b375dcb859ba514ba368c90b54046751044d1fd4acd75e7f382b6549a",
+      "source": {
+        "filename": "qingbao-meng-01_igFr7hd4-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-6756f325115e",
+      "category": "banners",
+      "path": "images/banners/sam-schooler-e9aetbe2w40-unsplash-6756f325.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 46826,
+      "sha256": "fd0d739487327bafdb4251636cbe287d425d664943c2296588be82bcbd26bced",
+      "source": {
+        "filename": "sam-schooler-E9aetBe2w40-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-c26fcfd97e19",
+      "category": "banners",
+      "path": "images/banners/sebastian-boring-8zd7rs8upxu-unsplash-c26fcfd9.webp",
+      "width": 1600,
+      "height": 1126,
+      "bytes": 349252,
+      "sha256": "ab36a7e66fe5cb340c4db2ae572945d45168e80b40e89660699f9d1c0e621a64",
+      "source": {
+        "filename": "sebastian-boring-8zD7rs8UpxU-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-792a00d3b4ec",
+      "category": "banners",
+      "path": "images/banners/shifaaz-shamoon-slak1gubg90-unsplash-792a00d3.webp",
+      "width": 899,
+      "height": 1600,
+      "bytes": 155834,
+      "sha256": "5faab6e41f6b378cf7c0846b13e7c9f8e848f050958d5ebf8f6efa1456bdcb4f",
+      "source": {
+        "filename": "shifaaz-shamoon-sLAk1guBG90-unsplash.jpg"
+      }
+    },
+    {
+      "id": "banners-f2b8091a5514",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-600950-mlb41523333480-042020-f-painel-placa-solar-fotovolta-f2b8091a.webp",
+      "width": 520,
+      "height": 352,
+      "bytes": 17588,
+      "sha256": "83009cf45cc50b7cf4d67d2e09c189ef4cf1f334335eab7b5c6c0926e01a95a9",
+      "source": {
+        "filename": "D_NQ_NP_2X_600950-MLB41523333480_042020-F-painel-placa-solar-fotovoltaica-50w--controlador-carga.png"
+      }
+    },
+    {
+      "id": "banners-1d773b09b26f",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-608622-mlb116323546648-092026-f-mini-painel-placa-solar-12v-1d773b09.webp",
+      "width": 1200,
+      "height": 881,
+      "bytes": 82054,
+      "sha256": "1c743a5c2b42e4b6ba336445fcdb5923ccf929a7a840714bacf9739d048b0723",
+      "source": {
+        "filename": "D_NQ_NP_2X_608622-MLB116323546648_092026-F-mini-painel-placa-solar-12v-15w-115x85.png"
+      }
+    },
+    {
+      "id": "banners-17f09f77521e",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-617239-mlb79930004447-102024-f-painel-placa-celula-energia--17f09f77.webp",
+      "width": 1052,
+      "height": 1200,
+      "bytes": 62084,
+      "sha256": "18e662e8c91a0408404cd8fb83c0a449f30f1077f39ef5fcd8295a32def990da",
+      "source": {
+        "filename": "D_NQ_NP_2X_617239-MLB79930004447_102024-F-painel-placa-celula-energia-solar-fotovoltaica-12v-20w-watts.png"
+      }
+    },
+    {
+      "id": "banners-55bd86d17aa9",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-617494-mlb106785249678-022026-f-kit-painel-placa-solar-50w--55bd86d1.webp",
+      "width": 1200,
+      "height": 850,
+      "bytes": 46590,
+      "sha256": "34f8d151b1edbc2701cd557c0e654a6a3a8f016d315aca1ce7d72c77634f2ab2",
+      "source": {
+        "filename": "D_NQ_NP_2X_617494-MLB106785249678_022026-F-kit-painel-placa-solar-50w--controlador-regulador--cabos.png"
+      }
+    },
+    {
+      "id": "banners-cb5e6ad13123",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-622091-mlb92317618039-092025-f-mini-painel-placa-energia-so-cb5e6ad1.webp",
+      "width": 1200,
+      "height": 749,
+      "bytes": 98190,
+      "sha256": "d1f15e8a2c90bded4adefa041520f6fd43e6f997c98d9dd7cd362f4d0e98eb05",
+      "source": {
+        "filename": "D_NQ_NP_2X_622091-MLB92317618039_092025-F-mini-painel-placa-energia-solar-fotovoltaica-12v-3w-250ma.png"
+      }
+    },
+    {
+      "id": "banners-07e172d01cbc",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-624515-mlb116447984195-082026-f-painel-solar-220w-monocrist-07e172d0.webp",
+      "width": 799,
+      "height": 1200,
+      "bytes": 46556,
+      "sha256": "72681ca6df66d70928fdcd9a8215718dd442c970e741ffcee8151c77d50f899a",
+      "source": {
+        "filename": "D_NQ_NP_2X_624515-MLB116447984195_082026-F-painel-solar-220w-monocristalino-fotovoltaico-inmetro-ip68.png"
+      }
+    },
+    {
+      "id": "banners-89a09bdde6f1",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-636536-mlb117486714807-092026-f-placa-solar-portatil-dobrav-89a09bdd.webp",
+      "width": 1200,
+      "height": 514,
+      "bytes": 68012,
+      "sha256": "2907215019873afc3c22d52e1b4e9b7751c81640846ab8746ff65ba7aa23302b",
+      "source": {
+        "filename": "D_NQ_NP_2X_636536-MLB117486714807_092026-F-placa-solar-portatil-dobravel-200w-monocristalino-ip68.png"
+      }
+    },
+    {
+      "id": "banners-044767e183b0",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-647696-mlb89595548887-082025-f-kit-2xpainel-placa-energia-s-044767e1.webp",
+      "width": 1109,
+      "height": 1192,
+      "bytes": 35978,
+      "sha256": "1040f4c12c3c95282593d03e09f30cc5e666b7b49d995701d4ca8ab207cd5c01",
+      "source": {
+        "filename": "D_NQ_NP_2X_647696-MLB89595548887_082025-F-kit-2xpainel-placa-energia-solar-155w-e-conector-mc4.png"
+      }
+    },
+    {
+      "id": "banners-366e278f4030",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-649946-mlb117526842389-092026-f-placa-solar-flexivel-200w-m-366e278f.webp",
+      "width": 890,
+      "height": 1200,
+      "bytes": 47398,
+      "sha256": "394afcf0ca3c5d1d0a6748d04acf6798b22255b9493ae6c655a7c7ed58af7169",
+      "source": {
+        "filename": "D_NQ_NP_2X_649946-MLB117526842389_092026-F-placa-solar-flexivel-200w-monocristalino-inmetro-inohouse.png"
+      }
+    },
+    {
+      "id": "banners-78d5702ac5c6",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-673223-mlb73023845492-112023-f-painel-placa-solar-fotovolta-78d5702a.webp",
+      "width": 844,
+      "height": 1200,
+      "bytes": 35584,
+      "sha256": "b6582ad0038a08210cc4f3c44e7de319687f9f61f08e27109a4f2333fe904705",
+      "source": {
+        "filename": "D_NQ_NP_2X_673223-MLB73023845492_112023-F-painel-placa-solar-fotovoltaica-30w-12v-inmetro-pronta-entre.png"
+      }
+    },
+    {
+      "id": "banners-845330193b5d",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-674207-mlb92186667218-092025-f-kit-painel-placa-modulo-sola-84533019.webp",
+      "width": 831,
+      "height": 1158,
+      "bytes": 56228,
+      "sha256": "923767360b87177b0085506caa2800bd457698c0a627bcb2485c343bf033505c",
+      "source": {
+        "filename": "D_NQ_NP_2X_674207-MLB92186667218_092025-F-kit-painel-placa-modulo-solar-fotovoltaica-80w-2-unidades.png"
+      }
+    },
+    {
+      "id": "banners-bda0ab7c0033",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-743423-mlb72900250365-112023-f-mini-placa-painel-celula-sol-bda0ab7c.webp",
+      "width": 692,
+      "height": 656,
+      "bytes": 20352,
+      "sha256": "b1a36ed0fb61fc49dab0bb12028ebca9f2b465f06a443ceb1ec8c0f4be7464bc",
+      "source": {
+        "filename": "D_NQ_NP_2X_743423-MLB72900250365_112023-F-mini-placa-painel-celula-solar-fotovoltaica-55v-50ma-027w.png"
+      }
+    },
+    {
+      "id": "banners-4fbc2d1510de",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-745937-mlb117370353159-092026-f-painel-270-wats-resun-dimen-4fbc2d15.webp",
+      "width": 420,
+      "height": 689,
+      "bytes": 37518,
+      "sha256": "96297ef678a879c89d4a6aa998b9c9874eba6b47d9f733b19bed9146c24199f5",
+      "source": {
+        "filename": "D_NQ_NP_2X_745937-MLB117370353159_092026-F-painel-270-wats-resun-dimensoes-164x99x3cm.png"
+      }
+    },
+    {
+      "id": "banners-81a9071c4bd3",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-763528-mla95399976782-102025-f-81a9071c.webp",
+      "width": 831,
+      "height": 1200,
+      "bytes": 79936,
+      "sha256": "6dd268f2253ba200323c33c09bc88438c2ad4fd033cc1968e92688dd79766d67",
+      "source": {
+        "filename": "D_NQ_NP_2X_763528-MLA95399976782_102025-F.png"
+      }
+    },
+    {
+      "id": "banners-74dc57534cef",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-781547-mlb89523598860-082025-f-mini-placa-painel-celula-sol-74dc5753.webp",
+      "width": 1200,
+      "height": 620,
+      "bytes": 40304,
+      "sha256": "ee61cffdcdc308b4a39b066bee1b67b3b4766a78fb1c394e437ee793d5d96e01",
+      "source": {
+        "filename": "D_NQ_NP_2X_781547-MLB89523598860_082025-F-mini-placa-painel-celula-solar-fotovoltaica-55v-50ma-027w.png"
+      }
+    },
+    {
+      "id": "banners-ff64888892c3",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-801108-mla112541151021-052026-f-ff648888.webp",
+      "width": 1200,
+      "height": 563,
+      "bytes": 109840,
+      "sha256": "42b4ca79f8a77d02d0a0f00014530338e3364af422f6252259b876379e7ead37",
+      "source": {
+        "filename": "D_NQ_NP_2X_801108-MLA112541151021_052026-F.png"
+      }
+    },
+    {
+      "id": "banners-921a4a5a97b6",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-811203-mlb91927814740-092025-f-painel-placa-solar-celula-fo-921a4a5a.webp",
+      "width": 1116,
+      "height": 1199,
+      "bytes": 42766,
+      "sha256": "13d855a19e15329d1cff993b18bb2271f2858b8c5a9782052071c55ccf149e65",
+      "source": {
+        "filename": "D_NQ_NP_2X_811203-MLB91927814740_092025-F-painel-placa-solar-celula-fotovoltaica-90w-controlador-10a.png"
+      }
+    },
+    {
+      "id": "banners-6bef98aeb391",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-821457-mlb111017693398-052026-f-kit-com-2-paineis-solares-f-6bef98ae.webp",
+      "width": 302,
+      "height": 500,
+      "bytes": 18886,
+      "sha256": "3615bbe7f5e595d09cfdd7e7d3c89598e03a91323f99829a6c5cad433b8fa05c",
+      "source": {
+        "filename": "D_NQ_NP_2X_821457-MLB111017693398_052026-F-kit-com-2-paineis-solares-fotovoltaico-310w-ztroon-ztp310mi.png"
+      }
+    },
+    {
+      "id": "banners-26e790c56000",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-853165-mlb72800984168-112023-f-placa-painel-celula-solar-fo-26e790c5.webp",
+      "width": 864,
+      "height": 732,
+      "bytes": 72854,
+      "sha256": "56f258a2a54c5ba8ae7c26bd8c292abf9264037d4bf0270a008569ed5b1d5a8b",
+      "source": {
+        "filename": "D_NQ_NP_2X_853165-MLB72800984168_112023-F-placa-painel-celula-solar-fotovoltaica-5v-400ma-2w.png"
+      }
+    },
+    {
+      "id": "banners-6deae5edced4",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-853905-cbt114961917174-082026-f-6deae5ed.webp",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 84236,
+      "sha256": "fe84966dab934ba6f0cb67d2ba3bc33074d777ae938fe5c60152e94e62e26e9c",
+      "source": {
+        "filename": "D_NQ_NP_2X_853905-CBT114961917174_082026-F.png"
+      }
+    },
+    {
+      "id": "banners-85a82a908a32",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-857114-mlb72805717064-112023-f-mini-placa-painel-celula-sol-85a82a90.webp",
+      "width": 765,
+      "height": 662,
+      "bytes": 23006,
+      "sha256": "9494f238ac5761447089a548b8282ca265db7dfa520c27b06f0e2fd6a07459fa",
+      "source": {
+        "filename": "D_NQ_NP_2X_857114-MLB72805717064_112023-F-mini-placa-painel-celula-solar-fotovoltaica-2v-65ma-013w.png"
+      }
+    },
+    {
+      "id": "banners-2d35eea0496d",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-861201-mlb72801289004-112023-f-placa-painel-celula-solar-fo-2d35eea0.webp",
+      "width": 832,
+      "height": 697,
+      "bytes": 68350,
+      "sha256": "d818e66dc669b692160fd6edb91d0d73294b71127aaacd477e78f40561100e75",
+      "source": {
+        "filename": "D_NQ_NP_2X_861201-MLB72801289004_112023-F-placa-painel-celula-solar-fotovoltaica-5v-400ma-2w.png"
+      }
+    },
+    {
+      "id": "banners-038326dffd8d",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-865647-mlb111017693400-052026-f-kit-com-2-paineis-solares-f-038326df.webp",
+      "width": 363,
+      "height": 500,
+      "bytes": 13972,
+      "sha256": "d879c4d8235203bf888b46fa9a1cf8404bd4d77a1a661deb9fdb1ef239f3bf5b",
+      "source": {
+        "filename": "D_NQ_NP_2X_865647-MLB111017693400_052026-F-kit-com-2-paineis-solares-fotovoltaico-310w-ztroon-ztp310mi.png"
+      }
+    },
+    {
+      "id": "banners-7c9d6ecffa6a",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-876614-mlb115348479160-082026-f-kit-2-placa-solar-100w-mono-7c9d6ecf.webp",
+      "width": 1092,
+      "height": 1044,
+      "bytes": 11880,
+      "sha256": "7f1108f6d903a6a9135acf026020fb405b2128935e5743ccc1f7d628db9456ee",
+      "source": {
+        "filename": "D_NQ_NP_2X_876614-MLB115348479160_082026-F-kit-2-placa-solar-100w-monocristalino-nacional-inmetro.png"
+      }
+    },
+    {
+      "id": "banners-8fadcf8548f6",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-917671-mlb72801328122-112023-f-placa-painel-celula-solar-fo-8fadcf85.webp",
+      "width": 849,
+      "height": 552,
+      "bytes": 35160,
+      "sha256": "fd2ef4665a4d45af234a930bde47f47cfa1d4e2e30c1456492b2c7bc9f15aba4",
+      "source": {
+        "filename": "D_NQ_NP_2X_917671-MLB72801328122_112023-F-placa-painel-celula-solar-fotovoltaica-5v-400ma-2w.png"
+      }
+    },
+    {
+      "id": "banners-6a929efa9442",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-933717-mlb115391012963-072026-f-placa-solar-430w-monocrista-6a929efa.webp",
+      "width": 769,
+      "height": 1200,
+      "bytes": 57988,
+      "sha256": "2d2eede8fad3f01ee6811d12195ab2aad7fd1bcb236d69ae612f3f661c41c835",
+      "source": {
+        "filename": "D_NQ_NP_2X_933717-MLB115391012963_072026-F-placa-solar-430w-monocristalino-halfcell-naiconal-inmetro.png"
+      }
+    },
+    {
+      "id": "banners-c2b48335c603",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-934750-mlb107176075251-022026-f-painel-placa-solar-celula-f-c2b48335.webp",
+      "width": 874,
+      "height": 1200,
+      "bytes": 43550,
+      "sha256": "a7b353794e5c37c8ae393c31b4a57f7657010571f760cb4650476912b595bbc6",
+      "source": {
+        "filename": "D_NQ_NP_2X_934750-MLB107176075251_022026-F-painel-placa-solar-celula-fotovoltaica-90w-controlador-10a.png"
+      }
+    },
+    {
+      "id": "banners-c40837343f40",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-941361-mlb116761693207-082026-f-placa-solar-100w-monocrista-c4083734.webp",
+      "width": 803,
+      "height": 723,
+      "bytes": 10334,
+      "sha256": "f9eb5c4cd8b017e853bc7deffa6ee65132e400b42dd49c302087d111cdb0551a",
+      "source": {
+        "filename": "D_NQ_NP_2X_941361-MLB116761693207_082026-F-placa-solar-100w-monocristalino-nacional--controlador--mc4.png"
+      }
+    },
+    {
+      "id": "banners-b15caea0ffb5",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-945741-mla112541469417-052026-f-b15caea0.webp",
+      "width": 1200,
+      "height": 514,
+      "bytes": 57146,
+      "sha256": "8dc0fa8927e74fa83a577cdd01847540888faf127cf6860427f148959f491fa2",
+      "source": {
+        "filename": "D_NQ_NP_2X_945741-MLA112541469417_052026-F.png"
+      }
+    },
+    {
+      "id": "banners-a958008ed52b",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-945917-mlb111561368270-062026-f-mini-placa-solar-12v-15w-11-a958008e.webp",
+      "width": 916,
+      "height": 692,
+      "bytes": 64986,
+      "sha256": "d56619350f186c95292bb25445b8130a7749982899e1dd2d170e24ce57ccf41f",
+      "source": {
+        "filename": "D_NQ_NP_2X_945917-MLB111561368270_062026-F-mini-placa-solar-12v-15w-115x85.png"
+      }
+    },
+    {
+      "id": "banners-e25b5d1bdc62",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-948915-mlb78529433974-082024-f-painel-placa-solar-celula-fo-e25b5d1b.webp",
+      "width": 1200,
+      "height": 1065,
+      "bytes": 79972,
+      "sha256": "bc676755f3e0ff97468146f09b2441eaad48c0863270e5887ff967045d2506e6",
+      "source": {
+        "filename": "D_NQ_NP_2X_948915-MLB78529433974_082024-F-painel-placa-solar-celula-fotovoltaica-80w--controlador-30a.png"
+      }
+    },
+    {
+      "id": "banners-471e9d05b739",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-954493-mlb72801152458-112023-f-placa-painel-celula-solar-fo-471e9d05.webp",
+      "width": 816,
+      "height": 588,
+      "bytes": 45554,
+      "sha256": "7a09cbae70a09511c3d46683e33c122546696ffeb3fbe3db65914d5c42cc15d3",
+      "source": {
+        "filename": "D_NQ_NP_2X_954493-MLB72801152458_112023-F-placa-painel-celula-solar-fotovoltaica-5v-400ma-2w.png"
+      }
+    },
+    {
+      "id": "banners-543e3d5df368",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-961902-mlb117701178479-092026-f-painel-solar-550w-maxeon-bi-543e3d5d.webp",
+      "width": 604,
+      "height": 1200,
+      "bytes": 27490,
+      "sha256": "d5093565ef4fa05a5d12d03de604b340338ade8f4749dea1cee8c0e6f0a6b84e",
+      "source": {
+        "filename": "D_NQ_NP_2X_961902-MLB117701178479_092026-F-painel-solar-550w-maxeon-bifacial-perc---inmetro.png"
+      }
+    },
+    {
+      "id": "banners-61ced177bd49",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-966122-mlb117370353061-092026-f-painel-270-wats-resun-dimen-61ced177.webp",
+      "width": 316,
+      "height": 722,
+      "bytes": 22902,
+      "sha256": "7db150f212b9ec9a615b07006bfc7960a79257339f9ff87e21a5e92aaa1e85ef",
+      "source": {
+        "filename": "D_NQ_NP_2X_966122-MLB117370353061_092026-F-painel-270-wats-resun-dimensoes-164x99x3cm.png"
+      }
+    },
+    {
+      "id": "banners-e099226dad6e",
+      "category": "banners",
+      "path": "images/banners/d-nq-np-2x-981584-mlb115349387418-082026-f-placa-solar-100w-monocrista-e099226d.webp",
+      "width": 827,
+      "height": 1200,
+      "bytes": 14592,
+      "sha256": "01b351038d989e6323943a81cf66d3ccbf9af6974c64bd06ce85beaf2229570e",
+      "source": {
+        "filename": "D_NQ_NP_2X_981584-MLB115349387418_082026-F-placa-solar-100w-monocristalino-nacional-inmetro-inohouse.png"
+      }
+    },
+    {
+      "id": "professionals-images-2fabb73dfceb",
+      "category": "professionals/images",
+      "path": "images/professionals/images/absdbsbds-2fabb73d.webp",
+      "width": 676,
+      "height": 1200,
+      "bytes": 94680,
+      "sha256": "9877252538bad22053aff1b6f480fa37f5b764070a1180f8f8f6f302b4f07cb5",
+      "source": {
+        "filename": "absdbsbds.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-8cdf1cf1f9e8",
+      "category": "professionals/images",
+      "path": "images/professionals/images/alonso-8cdf1cf1.webp",
+      "width": 654,
+      "height": 507,
+      "bytes": 21380,
+      "sha256": "cf0a965bffd4a16968f5068e9e9f46cd325646cddff36b2c1caa886382b6e3ab",
+      "source": {
+        "filename": "alonso.png"
+      }
+    },
+    {
+      "id": "professionals-images-364d44e19195",
+      "category": "professionals/images",
+      "path": "images/professionals/images/asdmak-364d44e1.webp",
+      "width": 736,
+      "height": 978,
+      "bytes": 44546,
+      "sha256": "edcaadff02b12dce24b54e3a6e7adab10962422fca59eea8a19a07712a8950cb",
+      "source": {
+        "filename": "asdmak.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-9cd4068d7e64",
+      "category": "professionals/images",
+      "path": "images/professionals/images/builder-helmet-9cd4068d.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 23624,
+      "sha256": "840fd4de4b2fe73095eb88acdec245c44a45f4b861af1ff752a3d57899f33a51",
+      "source": {
+        "filename": "builder-helmet.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-f6db60ff7a6f",
+      "category": "professionals/images",
+      "path": "images/professionals/images/daksmdl-f6db60ff.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 76820,
+      "sha256": "020790292ac7fab56406e43e41533afeab8d2f5d9ccc285e51e0195c21a89374",
+      "source": {
+        "filename": "daksmdl.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-2289867be1e3",
+      "category": "professionals/images",
+      "path": "images/professionals/images/download-2289867b.webp",
+      "width": 736,
+      "height": 856,
+      "bytes": 87436,
+      "sha256": "b11f43a3ed0368e82f0f4d46c03128c021aef91eea86c9597fe71f84b47917b3",
+      "source": {
+        "filename": "download.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-a328e978c0ad",
+      "category": "professionals/images",
+      "path": "images/professionals/images/dsakdjoihngosia-a328e978.webp",
+      "width": 736,
+      "height": 912,
+      "bytes": 53346,
+      "sha256": "4f4b90b7b1295dffa84c332988fff391f6c02254a693e863e1906b872db790bf",
+      "source": {
+        "filename": "dsakdjoihngosia.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-56bd127f87e2",
+      "category": "professionals/images",
+      "path": "images/professionals/images/emmanuel-ikwuegbu-xds9xeokbly-unsplash-56bd127f.webp",
+      "width": 801,
+      "height": 1200,
+      "bytes": 73208,
+      "sha256": "c4ab631b59d49156cac850c2dcd31f3b4875a39095ececea04074503d77fbbdf",
+      "source": {
+        "filename": "emmanuel-ikwuegbu-xdS9XEoKBLY-unsplash.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-58c240a07114",
+      "category": "professionals/images",
+      "path": "images/professionals/images/front-view-man-holding-schematics-58c240a0.webp",
+      "width": 801,
+      "height": 1200,
+      "bytes": 65608,
+      "sha256": "f11b263c76d5c7ef6ab5db5bcb1a970dfccf02f151836d4bf1b748d9c028a8dc",
+      "source": {
+        "filename": "front-view-man-holding-schematics.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-a891b4e09908",
+      "category": "professionals/images",
+      "path": "images/professionals/images/hard-at-work-a891b4e0.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 59984,
+      "sha256": "ec7fbbf12a0829da189805c3c7df5e66921554942f92c7d26732fcaac77fe38f",
+      "source": {
+        "filename": "Hard at work 🇧🇧.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-1be2a1bd5941",
+      "category": "professionals/images",
+      "path": "images/professionals/images/ikgfkdlg-1be2a1bd.webp",
+      "width": 674,
+      "height": 1200,
+      "bytes": 58598,
+      "sha256": "562dd0441e23b76c3e3f6db7ef4ad37c02ecf60df729c4c03eb5081bde22a623",
+      "source": {
+        "filename": "ikgfkdlg.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-280850c94904",
+      "category": "professionals/images",
+      "path": "images/professionals/images/ikjhdgjk-280850c9.webp",
+      "width": 720,
+      "height": 960,
+      "bytes": 73420,
+      "sha256": "477c481367f551d79bf8b19138993c7d29b9ad64a936ad4ae36aefa4dd7ca672",
+      "source": {
+        "filename": "ikjhdgjk.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-c6b27947197a",
+      "category": "professionals/images",
+      "path": "images/professionals/images/joseph-okon-hsd-igxu4r0-unsplash-c6b27947.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 56324,
+      "sha256": "cbf33eeb706200c75e81ee85d8c6c61cf405290707a3c23dea4115334e6cb7dd",
+      "source": {
+        "filename": "joseph-okon-hSD_Igxu4r0-unsplash.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-053b85abda10",
+      "category": "professionals/images",
+      "path": "images/professionals/images/kmnkvcgdfg-053b85ab.webp",
+      "width": 675,
+      "height": 1200,
+      "bytes": 115264,
+      "sha256": "a9bbd292bfa0b7062d0216c2513e304acdede1696023adc62851d0d4c3fcc388",
+      "source": {
+        "filename": "kmnkvcgdfg.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-688dfc5aa05a",
+      "category": "professionals/images",
+      "path": "images/professionals/images/kmnl-vbnv-688dfc5a.webp",
+      "width": 736,
+      "height": 979,
+      "bytes": 65830,
+      "sha256": "6c8ed0023127c684a74390b84fda81774da267255b3917f5f7e4c989df665677",
+      "source": {
+        "filename": "kmnl,,vbnv.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-d86a1e73162a",
+      "category": "professionals/images",
+      "path": "images/professionals/images/kophgjfghf-d86a1e73.webp",
+      "width": 736,
+      "height": 736,
+      "bytes": 44532,
+      "sha256": "211c484cbb47dbe9f457ae6618c4c7c10e8b931cbe7f5d4b1673d01c8bd4f78a",
+      "source": {
+        "filename": "kophgjfghf.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-8d242a32b3ba",
+      "category": "professionals/images",
+      "path": "images/professionals/images/mnbvkcbv-8d242a32.webp",
+      "width": 736,
+      "height": 921,
+      "bytes": 74580,
+      "sha256": "b94b80775258517159cbcc6ad3df2d429e83be419887223d15acb9766c0ad3e5",
+      "source": {
+        "filename": "mnbvkcbv.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-6e5800c09620",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-anthonyshkraba-production-8278899-6e5800c0.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 62652,
+      "sha256": "b7de2b914455d36bd4b79a70a84c0bc258fc14d1ee59103f9889f9cb2458aad7",
+      "source": {
+        "filename": "pexels-anthonyshkraba-production-8278899.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-18bac163d5bc",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-bymuratisikofficial-34670926-18bac163.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 52380,
+      "sha256": "b655def04c088a71d8c1a0cd61803264652c2ba0e7d3bc4082f2e97fb707efc7",
+      "source": {
+        "filename": "pexels-bymuratisikofficial-34670926.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-8897c6660a2d",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-gustavo-fring-6870308-8897c666.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 43978,
+      "sha256": "870792d6cd48afd4cbc4a754bfb78e74de9a93c1ab41c780c11be69f33804659",
+      "source": {
+        "filename": "pexels-gustavo-fring-6870308.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-876b591b9ce4",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-joshua-ovie-243767389-30169179-876b591b.webp",
+      "width": 902,
+      "height": 1200,
+      "bytes": 105130,
+      "sha256": "cf2afc72df6093038b2c22e1d9e536c814aee4f1ddc54d20fef5598d71760bbf",
+      "source": {
+        "filename": "pexels-joshua-ovie-243767389-30169179.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-2ac988153ed5",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-mikael-blomkvist-8960992-2ac98815.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 79010,
+      "sha256": "eb76d647090aebd580a58efc9622a4464b9aeb8a7fc39b611bde31f62c78901a",
+      "source": {
+        "filename": "pexels-mikael-blomkvist-8960992.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-5fd1f1157bce",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-olly-3932291-5fd1f115.webp",
+      "width": 1040,
+      "height": 1200,
+      "bytes": 43628,
+      "sha256": "2db1a0c311e605cada90f071fdca50481ac70c6c016c91a0435009e7efaf1070",
+      "source": {
+        "filename": "pexels-olly-3932291.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-31d996c622e1",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-pavel-danilyuk-7937681-31d996c6.webp",
+      "width": 801,
+      "height": 1200,
+      "bytes": 40020,
+      "sha256": "ef3e65cb0c250f9f6f30ab342beebeade59399795732febd2fcc6b90aa1a12f8",
+      "source": {
+        "filename": "pexels-pavel-danilyuk-7937681.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-040e22c8d24d",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-thirdman-8482835-040e22c8.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 29858,
+      "sha256": "29fc515fc0fc297207548fe7e2c857f30d7228989a19b83abb30bc71a334110f",
+      "source": {
+        "filename": "pexels-thirdman-8482835.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-1c14cd1fa59e",
+      "category": "professionals/images",
+      "path": "images/professionals/images/pexels-tima-miroshnichenko-6474447-1c14cd1f.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 80516,
+      "sha256": "641e1354a1b577aaf6886e0262a5f59f472099d54c25431b8aaa2aff8455c4ac",
+      "source": {
+        "filename": "pexels-tima-miroshnichenko-6474447.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-b30490d2c1e5",
+      "category": "professionals/images",
+      "path": "images/professionals/images/quem-anda-com-deus-nao-ando-so-b30490d2.webp",
+      "width": 675,
+      "height": 1200,
+      "bytes": 42948,
+      "sha256": "06a3f6222159c4c8891bd017648104f462182c739579c3182faee885149e75e9",
+      "source": {
+        "filename": "Quem anda com Deus não ando só 🐊.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-1857360cc70f",
+      "category": "professionals/images",
+      "path": "images/professionals/images/whduiqwyreyewt-1857360c.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 93758,
+      "sha256": "c8f691ce98f2139c60ae313e877e8b100a470fe6fd7bc28ea2f69a79d0c3b8ef",
+      "source": {
+        "filename": "whduiqwyreyewt.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-068be6e38be5",
+      "category": "professionals/images",
+      "path": "images/professionals/images/wind-farms-fields-068be6e3.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 40568,
+      "sha256": "bbe056c7880ff2c82e5f38da740d692359792deb9609cc31180d490308430c0b",
+      "source": {
+        "filename": "wind-farms-fields.jpg"
+      }
+    },
+    {
+      "id": "professionals-images-d76d72b6f936",
+      "category": "professionals/images",
+      "path": "images/professionals/images/just-for-josh-d76d72b6.webp",
+      "width": 236,
+      "height": 314,
+      "bytes": 15144,
+      "sha256": "ac2604fde96574d948af8d98880de508add688874031def35d20218b3c61fbc3",
+      "source": {
+        "filename": "“Just For Josh”.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-9cd53b51fdfd",
+      "category": "solar-panels",
+      "path": "images/solar-panels/1027876314973542562-9cd53b51.webp",
+      "width": 405,
+      "height": 540,
+      "bytes": 62848,
+      "sha256": "9d532a412aa5a83b8695b441bbbed2a0f586d5c170ef0a90ce93791a05c0b5e4",
+      "source": {
+        "filename": "1027876314973542562.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-6caf0b408ee8",
+      "category": "solar-panels",
+      "path": "images/solar-panels/1055531231408861073-6caf0b40.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 123276,
+      "sha256": "443acb92b975770d6db86d03e04c927ff71ff687239d3be4bc4632ca5c5291ca",
+      "source": {
+        "filename": "1055531231408861073.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-9fceffa789a5",
+      "category": "solar-panels",
+      "path": "images/solar-panels/1091419290951532347-9fceffa7.webp",
+      "width": 735,
+      "height": 663,
+      "bytes": 111698,
+      "sha256": "622a4eb14d9967d321473b9f1bb18aaf4e84edc7649d0bb450462154bef818d8",
+      "source": {
+        "filename": "1091419290951532347.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-4798b41656b4",
+      "category": "solar-panels",
+      "path": "images/solar-panels/1143703267851314762-4798b416.webp",
+      "width": 589,
+      "height": 730,
+      "bytes": 45382,
+      "sha256": "6c0637f6452d6880ad41c23c981b6655b1031d3106b6d92658f815e838201a9c",
+      "source": {
+        "filename": "1143703267851314762.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-125f20ff9cb0",
+      "category": "solar-panels",
+      "path": "images/solar-panels/13440498883946963-125f20ff.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 101408,
+      "sha256": "46c0c9d987a5fc567b3bc4dd8eae06fb0dac92ab7a1ed43f2e55b4ba6ed08ac4",
+      "source": {
+        "filename": "13440498883946963.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-0a85c6848417",
+      "category": "solar-panels",
+      "path": "images/solar-panels/4-renewable-energy-alternatives-to-power-your-home-0a85c684.webp",
+      "width": 235,
+      "height": 157,
+      "bytes": 4952,
+      "sha256": "38ad76ff2c5432f27b5b7fce022c3dddaecd6d63be4a61e441949a004ced4a93",
+      "source": {
+        "filename": "4 Renewable Energy Alternatives To Power Your Home.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-ad6d474c9b41",
+      "category": "solar-panels",
+      "path": "images/solar-panels/705094885454449277-ad6d474c.webp",
+      "width": 685,
+      "height": 1200,
+      "bytes": 71462,
+      "sha256": "74bcb249a1d278799688908de082eb8b5da199676eec6027397d5075293c4184",
+      "source": {
+        "filename": "705094885454449277.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-bc6d4b6ffe21",
+      "category": "solar-panels",
+      "path": "images/solar-panels/741475526176204688-bc6d4b6f.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 115628,
+      "sha256": "f3a5322dd780439afe88a610ff89b89ff529a24dc8975646a15b8b87df9c86dd",
+      "source": {
+        "filename": "741475526176204688.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-e3fd6f620316",
+      "category": "solar-panels",
+      "path": "images/solar-panels/8-best-solar-shingles-for-hot-and-humid-climates-e3fd6f62.webp",
+      "width": 236,
+      "height": 327,
+      "bytes": 25864,
+      "sha256": "a54240a887cdd755ace11d296580f5057aa1b2c85d5572db718e01c8da676e83",
+      "source": {
+        "filename": "8 Best Solar Shingles for Hot and Humid Climates___.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-63c1a6553175",
+      "category": "solar-panels",
+      "path": "images/solar-panels/amazing-benefits-of-going-solar-and-saving-energy-63c1a655.webp",
+      "width": 736,
+      "height": 1104,
+      "bytes": 92298,
+      "sha256": "c857cc88e2228db4aa160ce85df3b815f7c28cb13904c5f1288cc80b757d605e",
+      "source": {
+        "filename": "Amazing Benefits of Going Solar and Saving Energy___.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-ba9f38db9b03",
+      "category": "solar-panels",
+      "path": "images/solar-panels/build-your-own-solar-power-system-ba9f38db.webp",
+      "width": 506,
+      "height": 900,
+      "bytes": 84828,
+      "sha256": "35d1822ce4e39a5b6d503eee17e1cbb2f62b33285f6d398513ce0424bb8ba3d3",
+      "source": {
+        "filename": "Build Your Own Solar Power System.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-3fcd9d7fcdb8",
+      "category": "solar-panels",
+      "path": "images/solar-panels/diy-solar-system-complete-guide-diy-solar-panels-3fcd9d7f.webp",
+      "width": 405,
+      "height": 540,
+      "bytes": 41168,
+      "sha256": "dd428f6658aa4c15e1f410a416ceb7cc1240584ee247e6670e92a7789462769f",
+      "source": {
+        "filename": "DIY Solar System Complete Guide - DIY Solar Panels.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-68161dd04ca1",
+      "category": "solar-panels",
+      "path": "images/solar-panels/download-68161dd0.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 120534,
+      "sha256": "12f8ac44f4de56c82ec39599d1ff0f93d12b69714b0234544d9b285b529450ec",
+      "source": {
+        "filename": "download.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-ce357c4824dc",
+      "category": "solar-panels",
+      "path": "images/solar-panels/d-nq-np-2x-644548-mla95844190303-102025-f-ce357c48.webp",
+      "width": 755,
+      "height": 1200,
+      "bytes": 19554,
+      "sha256": "1c8332c0f45ef19263a79738e59fb57317fe649c6c9da33e546e586152effefb",
+      "source": {
+        "filename": "D_NQ_NP_2X_644548-MLA95844190303_102025-F.png"
+      }
+    },
+    {
+      "id": "solar-panels-29e0789b8bde",
+      "category": "solar-panels",
+      "path": "images/solar-panels/d-nq-np-2x-665254-mla95935017831-102025-f-29e0789b.webp",
+      "width": 832,
+      "height": 1200,
+      "bytes": 27862,
+      "sha256": "1925441c946ce915c85e776c5b11ad029973e9e27af4fc5cf9b695bc975329cd",
+      "source": {
+        "filename": "D_NQ_NP_2X_665254-MLA95935017831_102025-F.png"
+      }
+    },
+    {
+      "id": "solar-panels-20d11c4652e9",
+      "category": "solar-panels",
+      "path": "images/solar-panels/d-nq-np-2x-931769-mla112006504749-052026-f-20d11c46.webp",
+      "width": 1200,
+      "height": 908,
+      "bytes": 65708,
+      "sha256": "49403723cc043602c210ca4b6327b1bd409d9a8b2a5424bdd0dbff3951c04b2c",
+      "source": {
+        "filename": "D_NQ_NP_2X_931769-MLA112006504749_052026-F.png"
+      }
+    },
+    {
+      "id": "solar-panels-6d01663654e3",
+      "category": "solar-panels",
+      "path": "images/solar-panels/how-long-do-solar-panels-last-discover-their-lifespan-6d016636.webp",
+      "width": 675,
+      "height": 1200,
+      "bytes": 157330,
+      "sha256": "b527136668160452bac6e34d47db0e74d3f2bdcd2bc771789eb1497165986701",
+      "source": {
+        "filename": "How Long Do Solar Panels Last Discover Their Lifespan.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-9c22b751a14f",
+      "category": "solar-panels",
+      "path": "images/solar-panels/how-to-build-a-solar-panel-from-scratch-9c22b751.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 275044,
+      "sha256": "2faddc89d3b4dea1c450f800d33b2e6aa0d33cfbff7c9c731bcfbd40b1bc00fb",
+      "source": {
+        "filename": "How To Build A Solar Panel From Scratch.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-1d0df309af7a",
+      "category": "solar-panels",
+      "path": "images/solar-panels/mono-solar-panel-made-by-kingsun-solar-1d0df309.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 54900,
+      "sha256": "7423180569481b09eaf972b795271e3f2c113896f2b844a8398c1be1bdf5551b",
+      "source": {
+        "filename": "Mono Solar Panel made by KingSun Solar.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-2d7734247241",
+      "category": "solar-panels",
+      "path": "images/solar-panels/new-installation-of-13-20kw-solar-panel-system-at-melonba-new-south-wa-2d773424.webp",
+      "width": 540,
+      "height": 720,
+      "bytes": 51232,
+      "sha256": "26d4304d59296157e9ed02d01e91bcfb7be3ca1295a74b8c694cef1425aacedf",
+      "source": {
+        "filename": "New installation of 13_20kW solar panel system at Melonba, New South Wales ✅.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-a4d2e37c8ba8",
+      "category": "solar-panels",
+      "path": "images/solar-panels/ozsolarenergysolutions-6-66-kw-solar-installation-warrnambool-vic-3280-a4d2e37c.webp",
+      "width": 405,
+      "height": 540,
+      "bytes": 50332,
+      "sha256": "5b712a82be2b203b15ec268261a98c97e4a0d78b53f1cb33bc17e378396ee124",
+      "source": {
+        "filename": "ozsolarenergysolutions 6_66 kW Solar Installation @ Warrnambool, VIC 3280, Australia.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-2ff1a7a145af",
+      "category": "solar-panels",
+      "path": "images/solar-panels/ozsolarenergysolutions-installations-glenburn-vic-3717-australia-of-6--2ff1a7a1.webp",
+      "width": 720,
+      "height": 720,
+      "bytes": 102430,
+      "sha256": "1d8aae29986f9a253161170c3f8d6013a3c982d66414047b68917891b7663a76",
+      "source": {
+        "filename": "OZSolarenergySolutions Installations @ Glenburn, VIC 3717 Australia of 6_66 kW.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-1fd6943a1fe0",
+      "category": "solar-panels",
+      "path": "images/solar-panels/restar-solar-panels-15kwh-lithium-battery-1fd6943a.webp",
+      "width": 720,
+      "height": 960,
+      "bytes": 129828,
+      "sha256": "07027c9a98af1518e33a2d87dcfa82a6c1664010e1574917e40e312a79c6adc9",
+      "source": {
+        "filename": "RESTAR Solar Panels + 15kWh Lithium Battery….jpg"
+      }
+    },
+    {
+      "id": "solar-panels-49273f89feb4",
+      "category": "solar-panels",
+      "path": "images/solar-panels/sistema-solar-49273f89.webp",
+      "width": 675,
+      "height": 1200,
+      "bytes": 178668,
+      "sha256": "3a8090e07fa2eecb42e4e9924e6f2979cec57b214b2edc75096396783a67ebff",
+      "source": {
+        "filename": "sistema solar.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-ec3a261f036b",
+      "category": "solar-panels",
+      "path": "images/solar-panels/solar-light-on-x-ec3a261f.webp",
+      "width": 480,
+      "height": 640,
+      "bytes": 41314,
+      "sha256": "fd7598f57be7417d6c38ddcde46b58fd428837bad23320ab906fb8385be597b8",
+      "source": {
+        "filename": "solar light on X.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-64c4324f2d24",
+      "category": "solar-panels",
+      "path": "images/solar-panels/solar-panels-in-la-habra-ca-64c4324f.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 138338,
+      "sha256": "56a8ccfc5cf7137af01ed3782fcff1622e524f6e26927748245620442b39b972",
+      "source": {
+        "filename": "Solar Panels in La Habra, CA.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-c115382d7102",
+      "category": "solar-panels",
+      "path": "images/solar-panels/solar-panels-in-stock-c115382d.webp",
+      "width": 554,
+      "height": 1200,
+      "bytes": 58434,
+      "sha256": "0c6bdac9b3d20f1eca2a4122ad01aeb7a593aabdf964f6dc2e9e07d1bbcd9a02",
+      "source": {
+        "filename": "solar panels in stock.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-0ac519f236a9",
+      "category": "solar-panels",
+      "path": "images/solar-panels/solar-panels-installation-0ac519f2.webp",
+      "width": 736,
+      "height": 1104,
+      "bytes": 143382,
+      "sha256": "b223d6ab33e0125ca3d8e8e41fceb05a550655d5621a3fcbf276c3fe14a5b0c4",
+      "source": {
+        "filename": "Solar Panels Installation.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-74cceddf3a3d",
+      "category": "solar-panels",
+      "path": "images/solar-panels/solar-panels-74cceddf.webp",
+      "width": 736,
+      "height": 552,
+      "bytes": 57518,
+      "sha256": "2f054bf2a1cb657bee5def7d72c3e4577492f035c355f88042ba372a5dea94b1",
+      "source": {
+        "filename": "Solar Panels.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-277263babfda",
+      "category": "solar-panels",
+      "path": "images/solar-panels/solar-277263ba.webp",
+      "width": 736,
+      "height": 736,
+      "bytes": 47084,
+      "sha256": "df18653b2510dce4a8618341060d8acc5c167bd541db22be6d18e418803ae0bf",
+      "source": {
+        "filename": "solar.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-820df6d546ed",
+      "category": "solar-panels",
+      "path": "images/solar-panels/tendencias-de-arquitetura-e-construcao-sustentavel-em-portugal-820df6d5.webp",
+      "width": 736,
+      "height": 981,
+      "bytes": 119738,
+      "sha256": "63583e4adff0479aec9892c0b43b9ece5809def5791ccdd0815b713d0bf38d0d",
+      "source": {
+        "filename": "Tendências de Arquitetura e Construção Sustentável em Portugal.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-5d56c310edac",
+      "category": "solar-panels",
+      "path": "images/solar-panels/what-is-solar-panel-and-how-does-it-work-5d56c310.webp",
+      "width": 360,
+      "height": 480,
+      "bytes": 27958,
+      "sha256": "e7e41794b8941726aba402764b90b03ac030b01e39ac664cf24a5543396e11be",
+      "source": {
+        "filename": "What is solar panel and how does it work_.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-af337553233f",
+      "category": "solar-panels",
+      "path": "images/solar-panels/whatsapp-15981829550-af337553.webp",
+      "width": 736,
+      "height": 957,
+      "bytes": 55724,
+      "sha256": "b489d3b25866b70a37c7042e487724f274904c03753ae758d0998353615c502f",
+      "source": {
+        "filename": "whatsApp_15981829550.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-16f1436350a5",
+      "category": "solar-panels",
+      "path": "images/solar-panels/zipper-16f14363.webp",
+      "width": 675,
+      "height": 1200,
+      "bytes": 151738,
+      "sha256": "72370172d5af16c19a6507bd9835539389b50f075578979349492f3ac5adb714",
+      "source": {
+        "filename": "Zipper.jpg"
+      }
+    },
+    {
+      "id": "solar-panels-bfa970ebb162",
+      "category": "solar-panels",
+      "path": "images/solar-panels/what-do-you-expect-solar-panels-to-give-you-bfa970eb.webp",
+      "width": 736,
+      "height": 920,
+      "bytes": 146914,
+      "sha256": "42d30bd3d53c027f905dfa7ba68057e6916d63bac4305f5d909e395eab17af42",
+      "source": {
+        "filename": "💭 What do you EXPECT solar panels to give you….jpg"
+      }
+    }
+  ]
+}
