@@ -86,3 +86,7 @@ Use uma pasta de categoria existente (por exemplo `products/solar-panels/hero` p
 ## Automação
 
 Mantidos os workflows gerais de PRs, limpeza e releases semânticas do template. Removidos publicação Docker, sincronização QA e configuração de dependências Docker. O pacote é privado e não é publicado no npm.
+
+## Licença
+
+[Unlicense](LICENSE).

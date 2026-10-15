@@ -11,5 +11,6 @@
     "sync": "node scripts/sync.mjs",
     "cloudinary": "node scripts/cloudinary.mjs",
     "test": "node --test \"scripts/*.test.mjs\""
-  }
+  },
+  "license": "Unlicense"
 }
