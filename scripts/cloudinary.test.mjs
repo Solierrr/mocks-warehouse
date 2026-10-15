@@ -12,7 +12,7 @@ test('parseCloudinaryUrl reads key, secret and cloud and rejects invalid values'
 });
 
 test('sign orders parameters alphabetically and appends the secret', () => {
-  const expected = createHash('sha1').update('overwrite=false&public_id=mocks/x&timestamp=1&unique_filename=false' + 'secret').digest('hex');
+  const expected = createHash('sha256').update('overwrite=false&public_id=mocks/x&timestamp=1&unique_filename=false' + 'secret').digest('hex');
   assert.equal(sign({ unique_filename: 'false', timestamp: '1', public_id: 'mocks/x', overwrite: 'false' }, 'secret'), expected);
 });
 

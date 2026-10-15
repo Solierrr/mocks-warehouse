@@ -13,8 +13,8 @@ export function parseCloudinaryUrl(value) {
 }
 
 export function sign(params, apiSecret) {
-  const text = Object.keys(params).sort().map((key) => `${key}=${params[key]}`).join('&');
-  return createHash('sha1').update(text + apiSecret).digest('hex');
+  const text = Object.keys(params).sort((left, right) => left.localeCompare(right)).map((key) => `${key}=${params[key]}`).join('&');
+  return createHash('sha256').update(text + apiSecret).digest('hex');
 }
 
 export const publicIdFor = (asset) => `${PUBLIC_PREFIX}/${asset.id}`;
@@ -89,8 +89,10 @@ async function main() {
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
-  main().catch((error) => {
+  try {
+    await main();
+  } catch (error) {
     console.error(error.message);
     process.exitCode = 1;
-  });
+  }
 }

@@ -47,7 +47,8 @@ export async function loadCatalog() {
     const bytes = await readFile(filename);
     if (bytes.length !== asset.bytes || digest(bytes) !== asset.sha256 || bytes.toString('ascii', 0, 4) !== 'RIFF' || bytes.toString('ascii', 8, 12) !== 'WEBP') throw new Error(`Invalid image: ${asset.path}`);
     const [width, height] = dimensions(bytes);
-    const limit = asset.category === 'enterprises/pfp' ? 512 : asset.category.includes('banner') ? 1600 : 1200;
+    let limit = asset.category.includes('banner') ? 1600 : 1200;
+    if (asset.category === 'enterprises/pfp') limit = 512;
     if (width !== asset.width || height !== asset.height || width > limit || height > limit) throw new Error(`Invalid dimensions: ${asset.path}`);
     if (hashes.has(asset.sha256)) throw new Error(`Duplicate image content: ${asset.path}`);
     ids.add(asset.id);
@@ -67,6 +68,11 @@ export async function loadCatalog() {
 
 const attributeEnums = { gender: ['F', 'M', 'NB'], age_range: ['18-34', '35-54', '55+'], setting: ['indoor', 'outdoor'] };
 
+function validateCrop(asset, value) {
+  const { x, y, width, height } = value ?? {};
+  if (![x, y, width, height].every(Number.isInteger) || x < 0 || y < 0 || width < 1 || height < 1 || x + width > asset.width || y + height > asset.height) throw new Error(`Invalid attributes.crop: ${asset.id}`);
+}
+
 export function validateAttributes(asset) {
   const attributes = asset.attributes;
   if (typeof attributes !== 'object' || attributes === null || Array.isArray(attributes)) throw new Error(`Invalid attributes: ${asset.id}`);
@@ -76,8 +82,7 @@ export function validateAttributes(asset) {
     } else if (key === 'has_text_or_brand') {
       if (typeof value !== 'boolean') throw new Error(`Invalid attributes.has_text_or_brand: ${asset.id}`);
     } else if (key === 'crop') {
-      const { x, y, width, height } = value ?? {};
-      if (![x, y, width, height].every(Number.isInteger) || x < 0 || y < 0 || width < 1 || height < 1 || x + width > asset.width || y + height > asset.height) throw new Error(`Invalid attributes.crop: ${asset.id}`);
+      validateCrop(asset, value);
     } else {
       throw new Error(`Unknown attribute ${key}: ${asset.id}`);
     }

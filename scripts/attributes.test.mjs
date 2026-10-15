@@ -5,7 +5,7 @@ import { validateAttributes } from './catalog.mjs';
 const asset = (attributes) => ({ id: 'a', width: 800, height: 1200, attributes });
 
 test('validateAttributes accepts the documented fields', () => {
-  validateAttributes(asset({ gender: 'F', age_range: '18-34', setting: 'indoor', has_text_or_brand: false, crop: { x: 100, y: 50, width: 400, height: 400 } }));
+  assert.doesNotThrow(() => validateAttributes(asset({ gender: 'F', age_range: '18-34', setting: 'indoor', has_text_or_brand: false, crop: { x: 100, y: 50, width: 400, height: 400 } })));
 });
 
 test('validateAttributes rejects unknown keys, bad enums and crops outside the image', () => {
