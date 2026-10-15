@@ -3,9 +3,14 @@
   "version": "0.2.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=24" },
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "validate": "node scripts/validate.mjs",
-    "sync": "node scripts/sync.mjs"
-  }
+    "sync": "node scripts/sync.mjs",
+    "cloudinary": "node scripts/cloudinary.mjs",
+    "test": "node --test \"scripts/*.test.mjs\""
+  },
+  "license": "Unlicense"
 }
