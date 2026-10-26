@@ -9974,6 +9974,136 @@
           "height": 360
         }
       }
+    },
+    {
+      "id": "solar-panels-fb77b2f1d456",
+      "category": "products/solar-panels/demo",
+      "path": "images/products/solar-panels/demo/7J7BDM.webp",
+      "width": 1200,
+      "height": 801,
+      "bytes": 59894,
+      "sha256": "ee8b8f724a8183b09483ea312751207aeac955cca53f84e5da33722f258e5373",
+      "source": {
+        "filename": "unsplash-6M9OhcblUHM.jpg",
+        "unsplash_id": "6M9OhcblUHM",
+        "author": "Mischa Frank",
+        "url": "https://unsplash.com/photos/white-and-black-wooden-house-under-white-sky-during-daytime-6M9OhcblUHM",
+        "license": "Unsplash License"
+      },
+      "description": "Casas de madeira com paineis integrados ao telhado",
+      "tags": [
+        "casa",
+        "telhado",
+        "residencial"
+      ],
+      "attributes": {
+        "setting": "outdoor",
+        "has_text_or_brand": false
+      }
+    },
+    {
+      "id": "solar-panels-0b1863beca2c",
+      "category": "products/solar-panels/demo",
+      "path": "images/products/solar-panels/demo/F96QSO.webp",
+      "width": 1200,
+      "height": 676,
+      "bytes": 111682,
+      "sha256": "4aed82c5700e75827a82b5787a9aa14ffad8079056bcdfe5e48faf73d7a915cb",
+      "source": {
+        "filename": "unsplash-Ja8t8nJN2I4.jpg",
+        "unsplash_id": "Ja8t8nJN2I4",
+        "author": "Watt A Lot",
+        "url": "https://unsplash.com/photos/a-house-with-solar-panels-Ja8t8nJN2I4",
+        "license": "Unsplash License"
+      },
+      "description": "Casa com paineis solares no telhado inclinado",
+      "tags": [
+        "casa",
+        "telhado",
+        "residencial"
+      ],
+      "attributes": {
+        "setting": "outdoor",
+        "has_text_or_brand": false
+      }
+    },
+    {
+      "id": "solar-panels-dc8178a8e3a2",
+      "category": "products/solar-panels/demo",
+      "path": "images/products/solar-panels/demo/SBV03M.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 41834,
+      "sha256": "289955461393b2f32e3e57a6c1ac9d08463be2771fa3d23043f32aa3030676ef",
+      "source": {
+        "filename": "unsplash-OZ0ZEAm_PbE.jpg",
+        "unsplash_id": "OZ0ZEAm_PbE",
+        "author": "Michael Pointner",
+        "url": "https://unsplash.com/photos/a-large-solar-panel-with-mountains-in-the-background-OZ0ZEAm_PbE",
+        "license": "Unsplash License"
+      },
+      "description": "Paineis solares ao entardecer com montanhas ao fundo",
+      "tags": [
+        "entardecer",
+        "paisagem",
+        "paineis"
+      ],
+      "attributes": {
+        "setting": "outdoor",
+        "has_text_or_brand": false
+      }
+    },
+    {
+      "id": "solar-panels-f6b647281b36",
+      "category": "products/solar-panels/demo",
+      "path": "images/products/solar-panels/demo/MQBZYF.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 96266,
+      "sha256": "0e56ee654eb169dae81c67bea067cad05c68c5599d43ee5fb0060e2db7f067bb",
+      "source": {
+        "filename": "unsplash-wmaP3Tl80ww.jpg",
+        "unsplash_id": "wmaP3Tl80ww",
+        "author": "Bill Mead",
+        "url": "https://unsplash.com/photos/person-installing-solar-panel-on-roof-wmaP3Tl80ww",
+        "license": "Unsplash License"
+      },
+      "description": "Instalador posicionando painel solar no telhado",
+      "tags": [
+        "instalacao",
+        "profissional",
+        "telhado"
+      ],
+      "attributes": {
+        "setting": "outdoor",
+        "has_text_or_brand": false
+      }
+    },
+    {
+      "id": "solar-panels-09f4cb6ca1ac",
+      "category": "products/solar-panels/demo",
+      "path": "images/products/solar-panels/demo/DSC6LI.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 260974,
+      "sha256": "6e9249d3349cf627126250c5d2a7dc864c8597622c5ff3e0ba13af4bcec49b0e",
+      "source": {
+        "filename": "unsplash-xb88ojtIz6Q.jpg",
+        "unsplash_id": "xb88ojtIz6Q",
+        "author": "Michael Kahn",
+        "url": "https://unsplash.com/photos/a-blue-house-surrounded-by-trees-and-plants-xb88ojtIz6Q",
+        "license": "Unsplash License"
+      },
+      "description": "Casa azul entre arvores com paineis no telhado",
+      "tags": [
+        "casa",
+        "residencial",
+        "natureza"
+      ],
+      "attributes": {
+        "setting": "outdoor",
+        "has_text_or_brand": false
+      }
     }
   ]
 }
